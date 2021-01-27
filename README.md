@@ -16,7 +16,7 @@ __doc__ berisi laporan tugas kecil
 4. Masukkan perintah: __gcc katachar.h katachar.c boolean.h prog.c -o ../bin/prog__
 5. Pindah directory ke folder bin dengan cara memasukkan perintah cd../bin
 6. Masukkan perintah: __prog__ <br/>
-7. Masukkan alamat directory file soal yang akan diselesaikan, misalnya : __../test/tes1.txt
+7. Masukkan alamat directory file soal yang akan diselesaikan, misalnya : __../test/tes1.txt__
 ### Author
 * __RUHIYAH FARADISHI WIDIAPUTRI__
 * 13519034
