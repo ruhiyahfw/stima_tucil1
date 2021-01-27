@@ -15,7 +15,7 @@ __doc__ berisi laporan tugas kecil
 3. Masuk ke folder src
 4. Masukkan perintah gcc katachar.h katachar.c boolean.h prog.c -o ../bin/prog
 5. Pindah directory ke folder bin dengan cara memasukkan perintah cd../bin
-6. Masukkan perintah prog
+6. Masukkan perintah prog \n
 Saat ini program akan menyelesaikan persoalan *cryptarithmetic* yang ada di file test/tes1.txt. Untuk menyelesaikan persoalan yang ada di file lain, silahkan ganti tes1.txt di *source code* pada prog.c di baris ke-165 dengan nama file yang bersesuaian.
 ### Author
 * __RUHIYAH FARADISHI WIDIAPUTRI__
