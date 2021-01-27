@@ -157,12 +157,15 @@ int main(){
     listring s;
     address P;
     List L;
+    char namafile[50];
 
     First(L) = NULL;
     totaltes = 0;
 
     // Membaca dari txt dan menyimpannya
-    FILE *teks = fopen("../test/tes1.txt","r");
+    printf("Masukkan directory file soal (misalnya ../test/tes1.txt)\n");
+    scanf("%s",namafile);
+    FILE *teks = fopen(namafile,"r");
     while (fgets(line,sizeof(line),teks) != NULL){
         InsLast(&L,line);
     }
