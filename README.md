@@ -13,9 +13,9 @@ __doc__ berisi laporan tugas kecil
 1. Unduh repository ini
 2. Buka command prompt, masuk ke directory tempat penyimpanan repository ini
 3. Masuk ke folder src
-4. Masukkan perintah __gcc katachar.h katachar.c boolean.h prog.c -o ../bin/prog__
+4. Masukkan perintah: __gcc katachar.h katachar.c boolean.h prog.c -o ../bin/prog__
 5. Pindah directory ke folder bin dengan cara memasukkan perintah cd../bin
-6. Masukkan perintah __prog__ <br/>
+6. Masukkan perintah: __prog__ <br/>
 Saat ini program akan menyelesaikan persoalan *cryptarithmetic* yang ada di file test/tes1.txt. Untuk menyelesaikan persoalan yang ada di file lain, silahkan ganti tes1.txt di *source code* pada prog.c di baris ke-165 dengan nama file yang bersesuaian.
 ### Author
 * __RUHIYAH FARADISHI WIDIAPUTRI__
